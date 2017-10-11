@@ -1,0 +1,11 @@
+#TIL
+- learned about types in JS, ie number, string, boolean, function
+- learned about operators +, -, *, /, % (returns remainder after div)
+- using + with strings concatenates
+- math x, -, *, /, %
+- comparison <,>, ==, ===, <=,>=
+- = assigns value
+- == is a comparison operator
+- === strict equals which compares value and type
+- == compares just the value and not the type
+- undefined is the default value is JS for variable
